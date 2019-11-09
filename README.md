@@ -1,6 +1,6 @@
 # ECNDNet
 ECNDNet-Pytorch
-This a PyTorch implementation of the CAAI 2019 paper Enhanced CNN for image denoising. It can be downloaded at  https://digital-library.theiet.org/content/journals/10.1049/trit.2018.1054
+This a PyTorch implementation of the CAAI 2019 paper Enhanced CNN for image denoising.
 
 This code written with Pytorch>=0.4. 
 1. Dependences
