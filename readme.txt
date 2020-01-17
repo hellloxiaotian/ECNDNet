@@ -24,9 +24,20 @@ This code written with Pytorch>=0.4.
    or python test.py  --num_of_layers 17 --logdir sigma50/ --test_data Set12 --test_noiseL 50
 
 3. Network architecture 
-
+![RUNOOB 图标](./result/1.png)
 
 4. Experiment results
 ECNDNet for BSD68
+![RUNOOB 图标](./result/2.png)
 
 ECNDNet for Set12
+![RUNOOB 图标](./result/3.png)
+
+Running time of ECNDNet for a noisy image of different sizes
+![RUNOOB 图标](./result/6.png)
+
+Visual results of ECNDNet for BSD68
+![RUNOOB 图标](./result/4.png)
+
+Visual results of ECNDNet for Set12
+![RUNOOB 图标](./result/5.png)
