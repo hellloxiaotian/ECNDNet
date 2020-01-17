@@ -39,3 +39,16 @@
 
 #### Visual results of ECNDNet for Set12
 #### ![RUNOOB 图标](./result/5.png)
+
+### If you cite this paper, please refer to the following format:
+#### 1. Tian C, Xu Y, Fei L, et al. Enhanced CNN for image denoising[J]. CAAI Transactions on Intelligence Technology, 2019, 4(1): 17-23.
+#### 2. @article{tian2019enhanced,
+####  title={Enhanced CNN for image denoising},
+####  author={Tian, Chunwei and Xu, Yong and Fei, Lunke and Wang, Junqian and Wen, Jie and Luo, Nan},
+####  journal={CAAI Transactions on Intelligence Technology},
+####  volume={4},
+####  number={1},
+####  pages={17--23},
+####  year={2019},
+####  publisher={IET}
+#### }
