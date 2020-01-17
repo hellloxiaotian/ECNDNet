@@ -23,3 +23,10 @@ This code written with Pytorch>=0.4.
     python test.py  --num_of_layers 17 --logdir sigma50/ --test_data Set68 --test_noiseL 50
    or python test.py  --num_of_layers 17 --logdir sigma50/ --test_data Set12 --test_noiseL 50
 
+3. Network architecture 
+
+
+4. Experiment results
+ECNDNet for BSD68
+
+ECNDNet for Set12
