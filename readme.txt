@@ -25,7 +25,6 @@ This code written with Pytorch>=0.4.
 
 3. Network architecture 
 ![RUNOOB 图标](./result/1.png)
-
 4. Experiment results
 ECNDNet for BSD68
 ![RUNOOB 图标](./result/2.png)
