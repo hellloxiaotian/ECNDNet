@@ -24,7 +24,7 @@ This code written with Pytorch>=0.4.
    or python test.py  --num_of_layers 17 --logdir sigma50/ --test_data Set12 --test_noiseL 50
 
 3. Network architecture 
-![RUNOOB 图标](./result/1.png)
+![img](https://github.com/hellloxiaotian/ECNDNet/blob/master/result/6.png)
 4. Experiment results
 ECNDNet for BSD68
 ![RUNOOB 图标](./result/2.png)
