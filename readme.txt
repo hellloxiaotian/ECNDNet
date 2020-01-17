@@ -1,5 +1,5 @@
-ECNDNet-Pytorch
-This a PyTorch implementation of the CAAI 2019 paper Enhanced CNN for image denoising. 
+Enhanced CNN for image denoising by Chunwei Tian, Yong Xu, Lunke Fei, Junqian Wang, Jie Wen and Nan Luo is published in CAAI Transactions on Intelligence Technology, 2019. It is implemented by Pytorch
+
 
 This code written with Pytorch>=0.4. 
 1. Dependences
