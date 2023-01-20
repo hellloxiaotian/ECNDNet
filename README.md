@@ -1,6 +1,6 @@
-## Enhanced CNN for image denoising by Chunwei Tian, Yong Xu, Lunke Fei, Junqian Wang, Jie Wen and Nan Luo is published in CAAI Transactions on Intelligence Technology (SCI-IF:7.985), 2019. It is implemented by Pytorch. Besides, it is the best paper for CAAI Transactions on Intelligence Technology in 2018 and 2019. 
+## Enhanced CNN for image denoising by Chunwei Tian, Yong Xu, Lunke Fei, Junqian Wang, Jie Wen and Nan Luo is published in CAAI Transactions on Intelligence Technology (SCI-IF:7.985), 2019. It is implemented by Pytorch. 
 
-## The code of ECNDNet is collected by Profillic (The largest collection of ML models and code to power your projects) at https://www.catalyzex.com/paper/arxiv:1810.11834.
+##  It is an excellent paper for CAAI Transactions on Intelligence Technology in 2020.  The code of ECNDNet is collected by Profillic (The largest collection of ML models and code to power your projects) at https://www.catalyzex.com/paper/arxiv:1810.11834.
 
 ### This code written with Pytorch>=0.4. 
 #### 1. Dependences
